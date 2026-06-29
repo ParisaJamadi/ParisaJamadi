@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Parisa 👋
 
-<!--
-**ParisaJamadi/ParisaJamadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building AI systems that solve real-world problems.
 
-Here are some ideas to get you started:
+Over the past few years, I've worked on projects involving large language models, natural language processing, retrieval-augmented generation (RAG), multi-agent AI, and multimodal AI. I like taking ideas from research into practical applications, with a focus on building reliable and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I enjoy working on
+
+* Large Language Models (LLMs)
+* Generative AI
+* Natural Language Processing
+* Retrieval-Augmented Generation (RAG)
+* Multi-Agent AI
+* Machine Learning
+* Deeo Learning
+* MLOps and AI deployment
+* AI evaluation and observability
+
+## Technologies
+
+**Languages**
+
+Python • SQL • C++ • C#
+
+**AI & Machine Learning**
+
+PyTorch • Scikit-learn • Hugging Face • LangChain • LangGraph • LlamaIndex
+
+**Backend & APIs**
+
+FastAPI • REST APIs • Pydantic
+
+**Cloud & Infrastructure**
+
+AWS • Docker • GitHub Actions
+
+**Databases**
+
+PostgreSQL • ChromaDB
+
+## Featured repositories
+
+Here are a few projects that reflect the kind of work I enjoy building.
+
+## Currently exploring
+
+* Agentic AI
+* AI system evaluation
+* Scalable LLM applications
+* Production AI systems
+
+Thanks for visiting my profile!

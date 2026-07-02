@@ -16,6 +16,14 @@ Over the past few years, I've worked on projects involving large language models
 * MLOps and AI deployment
 * AI evaluation and observability
 
+## Sectors I've worked in
+
+* **Public Sector & Health / Social Care** — data extraction and risk-stratification for local authority adult social care
+* **Legal** — AI-assisted contract review with RAG and audit-ready decision logging
+* **Enterprise & Professional Services** — secure, role-based AI assistants for internal operations teams
+* **Cultural Heritage** — OCR and data extraction pipelines for museum and archive records
+* **Academic Research** — peer-reviewed publication in NLP (stance detection)
+
 ## Technologies
 
 **Languages**

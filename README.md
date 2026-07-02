@@ -12,7 +12,7 @@ Over the past few years, I've worked on projects involving large language models
 * Retrieval-Augmented Generation (RAG)
 * Multi-Agent AI
 * Machine Learning
-* Deeo Learning
+* Deep Learning
 * MLOps and AI deployment
 * AI evaluation and observability
 
